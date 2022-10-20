@@ -2,6 +2,7 @@
     background-color: rgb(19, 18, 18);
     color: rgb(242, 242, 242);
     text-align-last: center;
+   
 }
 
 #imgperfil{
@@ -24,4 +25,13 @@ h2{
     text-align: center;
     margin-left: 15%;
 }
+
+.divInline{
+    display: block;
+}
+
+
+
+
+
 
